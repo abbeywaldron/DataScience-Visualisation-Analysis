@@ -1,0 +1,120 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{letterpaper}
+\usepackage{palatcm}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{color}
+\usepackage{amssymb}
+\usepackage{textcomp}
+\pagenumbering{arabic}
+
+
+\usepackage{bm}
+\def\newblock{\hskip .11em plus .33em minus .07em}
+\begin{document}
+\title{Data Science: Visualisation and Analysis}
+
+\author{A.~V.~Waldron}
+
+\maketitle
+
+
+%%\begin{abstract}
+%%\end{abstract}
+
+
+
+\section*{Learning Objectives}
+
+In this course you will learn about one of the most important skills of the data scientist: data visualisation.  We will focus on using visualisation to understand problems and clearly explain your research to others.  We will also be applying statistics and machine learning algorithms that you will learn in other parts of the course to conduct a number of small analysis projects.
+
+\begin{itemize}
+\item Learn how to explore data using visualisation and R
+\item Learn how to apply statistics to draw conclusions
+\item Understand how to ask good questions and design experiments
+\item Learn how to explain your results using talks and visualisations
+\end{itemize}
+
+
+\section*{Form of course}
+
+One of the most important aspects of working with data is being able to communicate your results clearly with your colleagues and clients.  As such, an integral part of this course will be explaining the results of each week's work to your classmates, and asking and answering each other questions.
+
+Each week we will start with presentations of the previous week's work.  After that new material and R code examples will be given, before we start work on the current week's work.  
+
+Some weeks the problems will require coding and then presenting your plots and results, and other weeks problems will be conceptual or mathematical in nature.  Some weeks I will ask you to work in small groups and sometimes individually.
+
+
+\section*{Workload}
+
+There will be assignments given each week.  There will be time to work on them and get help during class, some weeks you may finish all the work during class time.  However, some weeks I will be expecting you to put in more hours outside of class to complete your assignments.  Please complete all the work.
+
+
+\section*{Preparation for the course}
+
+If you are not already familiar with R then I recommend you familiarize yourself with the basics before the start of the course.  You can find some introductory material free online, I suggest working through this tutorial:
+
+\begin{itemize}
+\item https://www.nceas.ucsb.edu/files/scicomp/Dloads/RProgramming/\\
+BestFirstRTutorial.pdf
+\end{itemize}
+
+\noindent There are also lots of screen-casts available on YouTube, for example this series:
+
+\begin{itemize}
+\item https://www.youtube.com/watch?v=UYclmg1\_KLk
+\end{itemize}
+
+
+\noindent If you are new to coding don't panic, there will be lots of examples given during the classes and time to work on your projects during class when help will be available.
+
+\section*{Course Outline}
+
+Lecture notes for each week will be uploaded after class.  All of the problem sets will be handed out during class.
+
+
+\subsection*{Week One}
+
+Introduction to data visualisation with R.  We will go over the anatomy of a good plot, and learn how to make some standard types of plot in R.  Exercises will require you to make a certain types of plots from a data set that will be provided.
+
+\subsection*{Week Two}
+
+Making the right plot to answer the question.  We will learn how to answer questions by making a plot.  This week will involve lots of examples, some group work and then some individual coding tasks.  The exact plot you need to make will no longer be given - you need to work it out.
+
+\subsection*{Week Three}
+
+Functional forms, how to characterise different behaviour, correlations.  Often when you plot two variables you can see some correlation between them.  We will learn how to describe different types of functional relationship and suggest mathematical formulae that may be appropriate for fitting.
+
+\subsection*{Week Four}
+
+Fitting data, interpolation and predictions.  We will apply techniques from the machine learning lectures to a specific problem.  We will discuss the importance of understanding the underlying data to guide the extent of our predictions.
+
+\subsection*{Week Five}
+
+Showing distributions, averages, errors, combining errors.  We will talk about performing measurements including their errors.
+
+\subsection*{Week Six}
+
+Hypotheses and designing experiments.  Now we will think about how to ask a good question, and then design an experiment to answer it.  There will be some group work where you are asked to design experiments to test certain hypotheses.
+
+\subsection*{Week Seven}
+
+Working on the final project.  Everyone will complete their own project.
+
+\subsection*{Week Eight}
+
+Present final projects and revision.  You will be presenting the results from your final project to your classmates.  Everyone will be presenting their work and answering questions.
+
+
+
+
+
+\section*{Examination}
+
+The course will be assessed with an examination.  Material from throughout the course will be assessed.
+
+
+
+\end{document}

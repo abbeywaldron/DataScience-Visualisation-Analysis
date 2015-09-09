@@ -1,0 +1,61 @@
+\section*{Modulebeschrijving}
+\begin{tabularx}{\textwidth}{|>{\columncolor{lichtGrijs}} p{.26\textwidth}|X|}
+	\hline
+	\textbf{Module name:} & \modulenaam\\
+	\hline
+	\textbf{Module code: }& \modulecode\\
+	\hline
+	\textbf{Study points \newline and hours of effort for full-time students:} & This module gives \stdPunten, in correspondance with 112 hours:
+	\begin{itemize}
+		\item 8 x 3 hours lectures
+		\item 8 x 5 hours self-study for the practical assignments
+                  \item 30 hours for the final project
+		\item 18 hours self-study and exam preparation
+	\end{itemize} \\
+	\hline
+	\textbf{Examination:} & Written examination and a final project \\
+	\hline
+	\textbf{Course structure:} & Lectures, practical assignments and presentations \\
+	\hline
+	\textbf{Prerequisite knowledge:} & Basic R Programming, Statistics. \\
+	\hline
+	\textbf{Learning tools:}  &
+		\begin{itemize}
+                  \item a book
+		\end{itemize} \\
+	\hline
+	\textbf{Connected to \newline competences:} &
+		\begin{itemize}
+	          \item competences.
+		\end{itemize} \\
+	\hline
+	\textbf{Learning objectives:} &
+		At the end of the course, the student can:
+			\begin{itemize}
+                        \item Learn how to explore data using visualisation and R
+                        \item Learn how to apply statistics to draw conclusions
+                        \item Understand how to ask good questions and design experiments
+                        \item Learn how to explain your results using talks and visualisations
+			\end{itemize} \\
+		
+	\hline
+\end{tabularx}
+\newpage
+
+\begin{tabularx}{\textwidth}{|>{\columncolor{lichtGrijs}} p{.26\textwidth}|X|}
+	\hline
+	\textbf{Content:}&
+	\begin{itemize}
+          \item Data Visualisation using R
+            \item How to make the right plot to answer the question
+              \item Experimental design and hypothesis statement
+                \item Applying statistics and mathematics to real problems
+                  \item Presenting results in a clear way
+	\end{itemize} \\
+	\hline
+	\textbf{Course owners:} & \author\\
+	\hline
+	\textbf{Date:} & \today \\
+	\hline
+\end{tabularx}
+\newpage
