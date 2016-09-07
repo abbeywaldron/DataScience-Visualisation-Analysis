@@ -1,0 +1,252 @@
+\documentclass{beamer}
+\newif\ifplacelogo
+\placelogotrue
+\mode<presentation>{\usetheme{Boadilla2}}
+
+\usepackage{geometry}
+\usepackage{color}
+\usepackage{graphicx}
+
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont{CenturyGothic}
+\setsansfont{CenturyGothic}
+
+\AtBeginSection[]{\frame{\tableofcontents[currentsection]}}
+
+\definecolor{myturquoise}{RGB}{0,176,176}
+\definecolor{mylightturquoise}{RGB}{54,216,216}
+
+
+\begin{document}
+
+
+\setlength{\unitlength}{1mm}
+\title{DS Visualisation and Analysis}
+\author[Abbey Waldron]{Abbey Waldron}
+\date[October 2nd, 2015]{}
+
+
+
+
+\setbeamertemplate{navigation symbols}{}
+
+{
+\placelogofalse
+\begin{frame}
+  \titlepage
+\end{frame}
+}
+
+
+
+\begin{frame}{This Week - Distributions and Research}
+
+\begin{enumerate}
+\item Show last week's work to the class
+\item Sampling
+\item Applied statistics, means, modes, variances, errors \textit{etc.}
+\item Parameter measurement
+\item Start work on problems
+\end{enumerate}
+
+\end{frame}
+
+
+
+\begin{frame}{Random Student Generator}
+
+\end{frame}
+
+
+\begin{frame}{Q1}
+Make a cubic spline interpolation of the total cases data.  Use your spline to predict the total number of cases on outbreak day 158.
+\end{frame}
+
+\begin{frame}{Q1 Answer}
+
+261
+
+\end{frame}
+
+\begin{frame}{Q2}
+
+Test out a few different fits to the total cases data, including the following.  Show your results on plots and give your best fit parameters:
+\begin{itemize}
+\item Linear
+\item Quadratic
+\item Exponential
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Q3}
+
+What do you think is a good function to fit to the total cases data?  Justify your answer from theory.
+
+\end{frame}
+
+\begin{frame}{Q4}
+
+Fit your solution to the data, show the fit on a plot and quote the fitted parameters and goodness of fit.
+
+\end{frame}
+
+\begin{frame}{Q5}
+
+Predict how many cases of ebola there were in total on the first of March, 2015 using the 2014 data.  Quote an error on your prediction (think\ldots).
+
+\end{frame}
+
+\begin{frame}{Q5 Answer}
+
+24k
+
+\end{frame}
+
+\begin{frame}{Q6}
+
+*Optional: repeat the above procedures for the total number of deaths.  What do you notice about the similarities/differences between the two?
+
+\end{frame}
+
+
+\begin{frame}{This week}
+
+This week we will work on applying some basic concepts that you will have met in statistics class to real World problems.
+
+\end{frame}
+
+
+\begin{frame}{Today's Experiment}
+
+Very often, we want to make a measurement of some quantity.  
+
+\vspace{5mm}
+
+Let's suppose we want to know the average number of caffeinated drinks per day consumed by pupils in the 4th year of the Hogeschool, and we use this class as our sample\ldots
+
+\end{frame}
+
+\begin{frame}{Conduct Experiment}
+
+\end{frame}
+
+\begin{frame}{Sample Mean}
+
+How do we calculate the sample mean?  Hopefully you remember this one from Statistics class:
+
+\begin{eqnarray}
+\overline{x} & = & \frac{1}{n}(x_{1}+x_{2}+\ldots+x_{n}) \\
+ & = & \frac{1}{n}\sum^{n}_{i=1}x_{i}
+\end{eqnarray}
+
+
+\noindent Where $n$ of course is the number in this class and the $x_{i}$ are your caffeinated drink numbers in this case. 
+
+%% However it is not enough to just quote this number as a measurement for the year group - we also need an error on it.
+
+\end{frame}
+
+\begin{frame}{Error on the Mean}
+
+What is the error on our measurement of the number of caffeinated drinks for the year?
+
+\vspace{5mm}
+
+If we would ask different classes, we would get different answers.
+
+\vspace{5mm}
+
+\[
+\textrm{Error on the Mean} = \frac{1}{\sqrt{n}}\sigma
+\]
+
+So when we take a large enough sample we recover the true population mean.
+
+\end{frame}
+
+
+
+
+
+\begin{frame}{Random Errors}
+
+Probably not all of you drink exactly the class mean number of caffeinated drinks per day!  
+
+\vspace{5mm}
+
+This is not an error with our experimental procedure (me asking you) but rather a real feature of the caffeine addiction distribution.  
+
+\end{frame}
+
+
+\begin{frame}{Random Errors}
+
+Estimating the population variance:
+
+\begin{equation}
+\sigma^{2} \approx \frac{1}{n-1}\sum^{n}_{i=1}(x_{i}-\overline{x})^{2}
+\end{equation}
+
+
+
+\end{frame}
+
+
+
+
+
+
+\begin{frame}{Systematic Errors}
+
+Should we expect this value to hold if we considered all students at the Hogeschool?
+
+\vspace{5mm}
+
+Now we get into the difficult part.  Your measurements will have some uncertainty due to the finite size of your data set, but it may also have some inherent error due to how you have conducted your experiment.
+
+\end{frame}
+
+\begin{frame}{Systematic Errors}
+
+
+In general the best strategy is to design your experiment to minimise such systematic errors - in this case we should use a better sampling method.
+
+\vspace{5mm}
+
+Quantification of them in general is beyond the scope of this course, one great option if possible if to perform your measurement using a different experiment and see how well the results agree.
+
+
+\end{frame}
+
+
+\begin{frame}{Week 5 Problems}
+
+\begin{enumerate}
+\item A more realistic research challenge
+\item Describing distributions and finding outliers
+\end{enumerate}
+
+
+
+\end{frame}
+
+
+
+
+%%%%%%%%%%%%% backup slides %%%%%%%%%%%%%%%%%%%%%%%%
+
+\appendix
+\newcounter{finalframe}
+\setcounter{finalframe}{\value{framenumber}}
+
+\begin{frame}{Backup Slides}
+\end{frame}
+
+
+
+
+\setcounter{framenumber}{\value{finalframe}}
+
+\end{document}

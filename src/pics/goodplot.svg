@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="567" height="544" viewBox="0 0 567 544" xmlns="http://www.w3.org/2000/svg">
+<title>
+/Users/aw350/latex/DS/root/goodplot.svg
+</title>
+<desc>
+Creator: ROOT Version 5.34/07
+CreationDate: Thu Sep  3 16:36:05 2015</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="567" height="544" fill="#fefefe"/>
+<rect x="91" y="76" width="385" height="381" fill="#fefefe"/>
+<rect x="91" y="76" width="385" height="381" fill="none" stroke="black"/>
+<rect x="91" y="76" width="385" height="381" fill="#fefefe"/>
+<rect x="91" y="76" width="385" height="381" fill="none" stroke="black"/>
+<path d="M92,456v -37h 18v -18h 19v 1h 20v 1h 19v 15h 19v 27h 19v 11h 39v -23h 19v -16h 19v 39h 20v -36h 19v 2h 19v -108h 20v -7h 19v 112h 19v -24h 19v -52h 20v 65h 19v -3h 19" fill="none" stroke="black" stroke-width="2"/>
+<path d="M91,457h 385" fill="none" stroke="black" stroke-width="2"/>
+<text x="170" y="516" fill="black" font-size="27" font-family="Helvetica">
+X Axis Title (Units)
+</text>
+<path d="M91,446v 11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M110,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M129,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M149,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M168,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M187,446v 11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M206,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M226,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M245,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M264,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M283,446v 11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M303,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M322,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M341,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M361,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M380,446v 11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M399,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M418,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M438,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M457,451v 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M476,446v 11" fill="none" stroke="black" stroke-width="2"/>
+<text x="85" y="476" fill="black" font-size="20" font-family="Helvetica">
+0
+</text>
+<text x="181" y="476" fill="black" font-size="20" font-family="Helvetica">
+5
+</text>
+<text x="272" y="476" fill="black" font-size="20" font-family="Helvetica">
+10
+</text>
+<text x="368" y="476" fill="black" font-size="20" font-family="Helvetica">
+15
+</text>
+<text x="464" y="476" fill="black" font-size="20" font-family="Helvetica">
+20
+</text>
+<path d="M91,76h 385" fill="none" stroke="black" stroke-width="2"/>
+<path d="M91,87v -11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M110,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M129,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M149,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M168,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M187,87v -11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M206,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M226,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M245,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M264,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M283,87v -11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M303,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M322,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M341,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M361,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M380,87v -11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M399,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M418,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M438,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M457,82v -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M476,87v -11" fill="none" stroke="black" stroke-width="2"/>
+<path d="M91,457v -381" fill="none" stroke="black" stroke-width="2"/>
+<g transform="rotate(-90,33,378)">
+<text x="33" y="378" fill="black" font-size="27" font-family="Helvetica">
+Y Axis Title (Units)
+</text>
+</g>
+<path d="M103,457h -12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,434h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,411h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,388h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,365h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M103,341h -12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,318h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,295h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,272h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,249h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M103,226h -12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,203h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,180h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,157h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,134h -6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M103,111h -12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M103,111h -12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M97,87h -6" fill="none" stroke="black" stroke-width="2"/>
+<text x="77" y="464" fill="black" font-size="20" font-family="Helvetica">
+0
+</text>
+<text x="66" y="349" fill="black" font-size="20" font-family="Helvetica">
+10
+</text>
+<text x="66" y="233" fill="black" font-size="20" font-family="Helvetica">
+20
+</text>
+<text x="66" y="118" fill="black" font-size="20" font-family="Helvetica">
+30
+</text>
+<path d="M476,457v -381" fill="none" stroke="black" stroke-width="2"/>
+<path d="M464,457h 12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,434h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,411h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,388h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,365h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M464,341h 12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,318h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,295h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,272h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,249h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M464,226h 12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,203h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,180h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,157h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,134h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M464,111h 12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M464,111h 12" fill="none" stroke="black" stroke-width="2"/>
+<path d="M470,87h 6" fill="none" stroke="black" stroke-width="2"/>
+<path d="M92,456v -11h 18v -9h 19v -12h 20v 9h 19v -22h 19v -28h 19v 5h 39v -32h 19v -10h 19v -28h 20v -2h 19v 4h 19v -11h 20v -11h 19v -14h 19v -30h 19v -11h 20v 8h 19v -10h 19" fill="none" stroke="black" stroke-width="2" stroke-dasharray=" 5, 5"/>
+<text x="85" y="54" fill="black" font-size="25" font-family="Helvetica">
+Main Plot Title Giving Description
+</text>
+<rect x="340" y="109" width="114" height="81" fill="#fefefe"/>
+<text x="368" y="138" fill="black" font-size="24" font-family="Helvetica" font-weight="bold">
+2014
+</text>
+<path d="M344,129h 20" fill="none" stroke="black" stroke-width="2" stroke-dasharray=" 5, 5"/>
+<text x="368" y="179" fill="black" font-size="24" font-family="Helvetica" font-weight="bold">
+2015
+</text>
+<path d="M344,170h 20" fill="none" stroke="black" stroke-width="2"/></svg>
